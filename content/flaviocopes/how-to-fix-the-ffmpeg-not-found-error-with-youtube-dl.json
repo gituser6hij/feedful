@@ -1,0 +1,10 @@
+{
+  "title": "How to fix the ffmpeg not found error with youtube-dl",
+  "url": "https://flaviocopes.com/fix-ffmpeg-not-found-youtube-dl/",
+  "date": "Sat, 21 May 2022 07:00:00 +0200",
+  "content": "              ",
+  "image": "https://flaviocopes.com/fix-ffmpeg-not-found-youtube-dl/banner.png",
+  "description": "I love fan noises while sleeping. My sleep quality totally changed for the better since I started.\nI was downloading a fan noise audio track from YouTube to put in the Music app using youtube-dl, like this:\nyoutube-dl ciD52cwJGCs --extract-audio --audio-format mp3 --prefer-ffmpeg;  But after downloading the file, I got the error\nERROR: ffprobe/avprobe and ffmpeg/avconv not found. Please install one.\nTo solve this on my Mac I had to run",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}

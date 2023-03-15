@@ -1,0 +1,10 @@
+{
+  "title": "How to remove the shadow from window screenshots in macOS",
+  "url": "https://flaviocopes.com/remove-shadow-macos-screenshots/",
+  "date": "Fri, 13 May 2022 07:00:00 +0200",
+  "content": "              ",
+  "image": "https://flaviocopes.com/remove-shadow-macos-screenshots/banner.png",
+  "description": "I take lots of screenshots for my blog posts or courses.\nI typically use cmd-shift-4 and then I press the spacebar to screenshot the whole application window.\nLike this:\nBy default macOS adds that drop shadow which makes it look pretty nice.\nIf you want you can remove it using this command in the terminal:\ndefaults write com.apple.screencapture disable-shadow -bool true ; killall SystemUIServer Here’s the same screenshot without drop shadow:",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}

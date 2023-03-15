@@ -1,0 +1,10 @@
+{
+  "title": "How to fix PostgreSQL saying \"relation does not exist\"",
+  "url": "https://flaviocopes.com/postgres-relation-not-exists/",
+  "date": "Sun, 15 May 2022 07:00:00 +0200",
+  "content": "        A quick explanation of how to solve PostgreSQL saying relation does not exist      ",
+  "image": "https://flaviocopes.com/postgres-relation-not-exists/banner.png",
+  "description": "A quick explanation of how to solve PostgreSQL saying relation does not exist",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}

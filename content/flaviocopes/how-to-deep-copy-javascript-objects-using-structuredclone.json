@@ -1,0 +1,10 @@
+{
+  "title": "How to deep copy JavaScript objects using structuredClone",
+  "url": "https://flaviocopes.com/how-to-deep-copy-structuredclone/",
+  "date": "Sun, 22 May 2022 07:00:00 +0200",
+  "content": "        The modern way to deep copy a JavaScript variable      ",
+  "image": "https://flaviocopes.com/how-to-deep-copy-structuredclone/banner.png",
+  "description": "The modern way to deep copy a JavaScript variable",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "How to Create Style Variations in WordPress 6.0 Block Themes",
+  "url": "https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/",
+  "date": "Mon, 16 May 2022 14:38:29 +0000",
+  "content": "<p><a href=\"https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/\" rel=\"noopener\">Global styles</a>, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of <em>global style variations</em> in WordPress were introduced in <a href=\"https://make.wordpress.org/core/2022/02/03/whats-new-in-gutenberg-12-5-february-2nd/\" rel=\"noopener\">Gutenberg 12.5</a> which would allow theme authors to create alternate &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/\">How to Create Style Variations in WordPress 6.0 Block Themes</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365377",
+  "description": "In this article, I will walk through creating global style variations in WordPress for block themes.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

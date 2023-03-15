@@ -1,0 +1,10 @@
+{
+  "title": "How to use the Node.js fs module with async/await",
+  "url": "https://flaviocopes.com/node-fs-await/",
+  "date": "Thu, 19 May 2022 07:00:00 +0200",
+  "content": "              ",
+  "image": "https://flaviocopes.com/node-fs-await/banner.png",
+  "description": "Node.js built-in modules famously are not promise-based.\nThis is for historical reasons, as those modules were created before promises were a thing.\nWe’ve had promisify for quite some time, but I recently found out Node.js provides a new API that’s promise-based.\nI thought it was new but it’s been introduced in Node.js 10 (2018, it’s been a while!).\nAt the moment it only works for the fs built-in module.\nI’m not sure if this will be ported to other native modules soon.",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}

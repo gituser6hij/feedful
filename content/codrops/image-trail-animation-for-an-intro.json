@@ -1,0 +1,10 @@
+{
+  "title": "Image Trail Animation for an Intro",
+  "url": "https://tympanus.net/codrops/2022/05/03/image-trail-animation-for-an-intro/",
+  "date": "Tue, 03 May 2022 10:05:31 +0000",
+  "content": "<p>An intro animation concept with an initial loader and an intro screen that animates to a new layout using various effects.</p><p>The post <a rel=\"nofollow\" href=\"https://tympanus.net/codrops/2022/05/03/image-trail-animation-for-an-intro/\">Image Trail Animation for an Intro</a> appeared first on <a rel=\"nofollow\" href=\"https://tympanus.net/codrops\">Codrops</a>.</p>",
+  "image": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2022/05/introtrail_feat.jpg",
+  "description": "An experimental concept with an initial loader, a trail effect and an intro screen that animates to a new layout using GSAP's Flip plugin.",
+  "publisher": "Codrops",
+  "publisherUrl": "https://tympanus.net/codrops/"
+}

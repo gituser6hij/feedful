@@ -1,0 +1,10 @@
+{
+  "title": "Cool Hover Effects That Use CSS Text Shadow",
+  "url": "https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/",
+  "date": "Fri, 13 May 2022 14:43:17 +0000",
+  "content": "<p>In my <a href=\"https://css-tricks.com/cool-hover-effects-using-background-properties/\">last article</a> we saw how CSS <code>background</code> properties allow us to create cool hover effects. This time, we will focus on the CSS <code>text-shadow</code> property to explore even more interesting hovers. You are probably wondering how adding shadow &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/\">Cool Hover Effects That Use CSS Text Shadow</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365738",
+  "description": "You may wonder how adding a text shadow creates a cool hover effect but we’re actually not going to use \"shadows\" for these text hover effects.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

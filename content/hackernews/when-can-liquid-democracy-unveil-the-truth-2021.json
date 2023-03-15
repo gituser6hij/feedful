@@ -1,0 +1,10 @@
+{
+  "title": "When can liquid democracy unveil the truth? (2021)",
+  "url": "https://arxiv.org/abs/2104.01828",
+  "date": "Sun, 22 May 2022 14:10:42 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31468351\">Comments</a>",
+  "image": null,
+  "description": "In this paper, we investigate the so-called ODP-problem that has been\nformulated by Caragiannis and Micha [10]. Here, we are in a setting with two\nelection alternatives out of which one is assumed to be correct. In ODP, the\ngoal is to organise the delegations in the social network in order to maximize\nthe probability that the correct alternative, referred to as ground truth, is\nelected. While the problem is known to be computationally hard, we strengthen\nexisting hardness results by providing a novel strong approximation hardness\nresult: For any positive constant $C$, we prove that, unless $P=NP$, there is\nno polynomial-time algorithm for ODP that achieves an approximation guarantee\nof $α\\ge (\\ln n)^{-C}$, where $n$ is the number of voters. The reduction\ndesigned for this result uses poorly connected social networks in which some\nvoters suffer from misinformation. Interestingly, under some hypothesis on\neither the accuracies of voters or the connectivity of the network, we obtain a\npolynomial-time $1/2$-approximation algorithm. This observation proves formally\nthat the connectivity of the social network is a key feature for the efficiency\nof the liquid democracy paradigm. Lastly, we run extensive simulations and\nobserve that simple algorithms (working either in a centralized or\ndecentralized way) outperform direct democracy on a large class of instances.\nOverall, our contributions yield new insights on the question in which\nsituations liquid democracy can be beneficial.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

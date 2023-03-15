@@ -1,0 +1,10 @@
+{
+  "title": "On efficiently partitioning a topic in Apache Kafka",
+  "url": "https://arxiv.org/abs/2205.09415",
+  "date": "Fri, 20 May 2022 15:42:53 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31448988\">Comments</a>",
+  "image": null,
+  "description": "Apache Kafka addresses the general problem of delivering extreme high volume\nevent data to diverse consumers via a publish-subscribe messaging system. It\nuses partitions to scale a topic across many brokers for producers to write\ndata in parallel, and also to facilitate parallel reading of consumers. Even\nthough Apache Kafka provides some out of the box optimizations, it does not\nstrictly define how each topic shall be efficiently distributed into\npartitions. The well-formulated fine-tuning that is needed in order to improve\nan Apache Kafka cluster performance is still an open research problem. In this\npaper, we first model the Apache Kafka topic partitioning process for a given\ntopic. Then, given the set of brokers, constraints and application requirements\non throughput, OS load, replication latency and unavailability, we formulate\nthe optimization problem of finding how many partitions are needed and show\nthat it is computationally intractable, being an integer program. Furthermore,\nwe propose two simple, yet efficient heuristics to solve the problem: the first\ntries to minimize and the second to maximize the number of brokers used in the\ncluster. Finally, we evaluate its performance via large-scale simulations,\nconsidering as benchmarks some Apache Kafka cluster configuration\nrecommendations provided by Microsoft and Confluent. We demonstrate that,\nunlike the recommendations, the proposed heuristics respect the hard\nconstraints on replication latency and perform better w.r.t. unavailability\ntime and OS load, using the system resources in a more prudent way.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

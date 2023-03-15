@@ -1,0 +1,10 @@
+{
+  "title": "How to fix the objectID required error on Algolia",
+  "url": "https://flaviocopes.com/fix-algolia-objectid-required/",
+  "date": "Tue, 17 May 2022 07:00:00 +0200",
+  "content": "              ",
+  "image": "https://flaviocopes.com/fix-algolia-objectid-required/banner.png",
+  "description": "I am using Algolia to power the search on this blog.\nFrom time to time I add new blog posts by downloading the JSON I prepare through a special URL of the website, and then I manually upload it through the Algolia dashboard.\nThat’s something I could automate, but it’s not a big deal to do it once in a while.\nToday I got this error while uploading the JSON file:",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}
